@@ -1,0 +1,45 @@
+:: Social Tune ::
+
+> Will use bootstrap
+
+
+>> Site Hierarchy
+[ ] index
+[ ] Login Page
+[ ] Signup
+ - Verification
+[ ] Dashboard
+[ ] Messaging
+[ ] Profile
+ [ ] Edit Profile
+  - BBCode / Whitelisted HTML/CSS
+  - Background: Color Wheel/Image Upload
+  - Modular
+  - Click/Drag Layout
+[ ] Account Settings
+[ ] Contact Us
+[ ] 
+
+
+>> Every page will have:
+ - Messaging service
+ - An integrated Music Player
+
+>> Reward System:
+ - Top scores
+ - Scores reset every month
+ - 'good job' button
+ 
+>> On Messaging:
+ - Text | Audio/Video options
+ - What about augmented reality? (3rd/1st person in a private room)...Can work with a eye/ear-head apparatus?
+
+ >> mobile & Desktop setup.
+
+
+>> User Types
+ - Person
+ - Band
+ - etc group
+ - Record label
+
